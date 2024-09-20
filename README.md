@@ -55,7 +55,4 @@ Al ejecutar el programa, se mostrará en consola:
 - `notaDeLaPelicula`: Puntuación de la película en una escala de 1 a 10.
 - `plan`: Tipo de plan del usuario.
 
-## Ejemplo de salida
-
-Al ejecutar el programa con los valores predeterminados, el resultado en la consola será:
 
